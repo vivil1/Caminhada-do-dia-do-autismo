@@ -1,8 +1,7 @@
 body {
     background-image: url('dia do autismo.jpg');
-    background-size: cover; /* para cobrir toda a área do corpo */
-    background-repeat: no-repeat; /* para evitar a repetição da imagem */
-}
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
 
 .container {
