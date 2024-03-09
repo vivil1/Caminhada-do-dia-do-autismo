@@ -13,6 +13,10 @@ header {
 .imagem {
     margin: 1px;
 }
+.img-centralizada {
+    display: block;
+    margin: 0 auto;
+}
 
 h1 {
     color: #fff; 
